@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Module10_HiddenCalculator</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="enter_number">Введите число</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="times">*</string>
+    <string name="division">/</string>
+    <string name="send_data">Передать данные</string>
+</resources>
